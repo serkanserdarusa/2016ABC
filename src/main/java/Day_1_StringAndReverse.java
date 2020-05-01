@@ -1,3 +1,5 @@
+import javax.swing.*;
+
 public class Day_1_StringAndReverse {
     public static void main(String[] args) {
         //What are different way to create string object in java
@@ -60,7 +62,15 @@ public class Day_1_StringAndReverse {
 
         System.out.println(reverse);
 
-        //THIRD WAY.word by word
+        //THIRD WAY.letter by letter
+        String name5 = "Java is easy";
+
+        for (int i = name5.length() - 1; i >= 0; i--) {
+            System.out.print(name5.charAt(i));
+        }
+        System.out.println();
+
+        //FOURTH WAY.word by word
         String word="Today is cold";
         String reverse1="";
         String[]arr=word.split(" ");
@@ -70,8 +80,10 @@ public class Day_1_StringAndReverse {
         }
         System.out.println(reverse1);
 
-    }
-}
+
+            }
+        }
+
 
 
 
