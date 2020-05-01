@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_1_StringAndReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day_1_StringAndReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_4_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day_4_ArrayList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Day_4_ArrayList">
     <configuration name="Day_1_StringAndReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day_1_StringAndReverse" />
       <module name="Batch15" />
@@ -65,8 +64,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day_4_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_4_ArrayList" />
+      <module name="Batch15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day_4_ArrayList" />
         <item itemvalue="Application.Day_1_StringAndReverse" />
       </list>
     </recent_temporary>

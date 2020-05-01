@@ -14,6 +14,8 @@ public class Day_4_ArrayList {
         array1.add(4, 5);
         array1.add(5, 8);
         System.out.println(array1);
+        array1.set(1,3);
+        System.out.println(array1);
         array1.addAll(Arrays.asList(1, 2, 3, 4, 5, 6));
         System.out.println(array1);
         Collections.sort(array1);
