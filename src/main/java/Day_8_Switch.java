@@ -1,7 +1,7 @@
 public class Day_8_Switch {
 
     public static void main(String[] args) {
-   test(4,5);
+
         System.out.println( test(4,5));
 
         int day = 1;
