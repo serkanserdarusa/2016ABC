@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day_5_InstanceAndStaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day_6_InstanceAndStaticVariable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day_7_InstanceAndStaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day_8_Switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Day_4_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day_4_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Day_4_ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day_4_ArrayList.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,16 +61,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day_4_ArrayList">
-    <configuration name="Day_1_StringAndReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_1_StringAndReverse" />
+  <component name="RunManager" selected="Application.Day_8_Switch">
+    <configuration name="Day_5_InstanceAndStaticVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_5_InstanceAndStaticVariable" />
       <module name="Batch15" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_4_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_4_ArrayList" />
+    <configuration name="Day_6_InstanceAndStaticVariable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_6_InstanceAndStaticVariable2" />
+      <module name="Batch15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_7_InstanceAndStaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_7_InstanceAndStaticBlock" />
+      <module name="Batch15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_8_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_8_Switch" />
+      <module name="Batch15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ffff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ffff" />
       <module name="Batch15" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,8 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day_4_ArrayList" />
-        <item itemvalue="Application.Day_1_StringAndReverse" />
+        <item itemvalue="Application.Day_8_Switch" />
+        <item itemvalue="Application.Day_7_InstanceAndStaticBlock" />
+        <item itemvalue="Application.Day_6_InstanceAndStaticVariable2" />
+        <item itemvalue="Application.Day_5_InstanceAndStaticVariable" />
+        <item itemvalue="Application.ffff" />
       </list>
     </recent_temporary>
   </component>

@@ -29,7 +29,6 @@ public class Day_4_ArrayList {
         array1.remove(Integer.parseInt("8"));//primitive.delete index
         System.out.println(array1);
 
-
     }
 }
 
