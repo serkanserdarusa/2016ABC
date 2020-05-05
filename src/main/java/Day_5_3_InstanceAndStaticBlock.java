@@ -1,6 +1,7 @@
-public class Day_7_InstanceAndStaticBlock {
+public class Day_5_3_InstanceAndStaticBlock {
 
-    public Day_7_InstanceAndStaticBlock(){
+    public Day_5_3_InstanceAndStaticBlock(){
+
         System.out.println("constructor");//belongs to object
     }
 
@@ -14,8 +15,8 @@ public class Day_7_InstanceAndStaticBlock {
 
     public static void main(String[] args) {
         System.out.println("main method1");
-        Day_7_InstanceAndStaticBlock ab=new Day_7_InstanceAndStaticBlock();
-        Day_7_InstanceAndStaticBlock ab1=new Day_7_InstanceAndStaticBlock();
+        Day_5_3_InstanceAndStaticBlock ab=new Day_5_3_InstanceAndStaticBlock();
+        Day_5_3_InstanceAndStaticBlock ab1=new Day_5_3_InstanceAndStaticBlock();
         System.out.println("main method2");
     }
 }

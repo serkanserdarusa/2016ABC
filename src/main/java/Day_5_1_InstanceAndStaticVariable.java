@@ -19,19 +19,19 @@
     */
 
 
-public class Day_5_InstanceAndStaticVariable {
+public class Day_5_1_InstanceAndStaticVariable {
    static String name;//static variable
           String name1;//instance variable
 
    public static void main(String[] args) {
 
-   Day_5_InstanceAndStaticVariable abc=new Day_5_InstanceAndStaticVariable();
+   Day_5_1_InstanceAndStaticVariable abc=new Day_5_1_InstanceAndStaticVariable();
    abc.name1="mike";//instance
    abc.name="suzan";//static
       System.out.println(abc.name1);//mike
       System.out.println(abc.name);//suzan
 
-      Day_5_InstanceAndStaticVariable abc1=new Day_5_InstanceAndStaticVariable();
+      Day_5_1_InstanceAndStaticVariable abc1=new Day_5_1_InstanceAndStaticVariable();
       abc1.name1="scott";
       abc1.name="ayse";
       System.out.println(abc1.name1);//scott
@@ -39,7 +39,7 @@ public class Day_5_InstanceAndStaticVariable {
       System.out.println(abc.name1);//mike
       System.out.println(abc.name);//ayse
 
-      Day_5_InstanceAndStaticVariable abc2=new Day_5_InstanceAndStaticVariable();
+      Day_5_1_InstanceAndStaticVariable abc2=new Day_5_1_InstanceAndStaticVariable();
       abc2.name1="ali";//instance
       abc2.name="fatma";//static
       System.out.println(abc2.name1);//ali

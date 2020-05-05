@@ -1,8 +1,8 @@
-public class Day_8_Switch {
+public class Day_5_4_Switch {
 
     public static void main(String[] args) {
 
-        System.out.println( test(4,5));
+
 
         int day = 1;
         switch (day) {
@@ -33,13 +33,16 @@ public class Day_8_Switch {
 
         for (int each : arr) {
             if (each == 4) {
-                // continue;//1,2,3,5,6
-                break;//1,2,3
+                // continue;==>1,2,3,5,6
+                break;//==>1,2,3
 
             }
             System.out.println(each);
         }
         System.out.println("something");
+        System.out.println();
+
+        System.out.println( test(4,5));
     }
                 public static int test(int a,int b){
                  a=4;
