@@ -3,6 +3,9 @@ public class Day_6_InstanceAndStaticVariable2 {
     static String name="john";//static variable
            String name1="christy";//instance variable
 
+     public Day_6_InstanceAndStaticVariable2(){
+     System.out.println("constructor");
+     }
 
     public static void test(){//static method
         System.out.println("static method");

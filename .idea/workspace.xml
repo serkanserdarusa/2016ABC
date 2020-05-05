@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day_5_InstanceAndStaticVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day_6_InstanceAndStaticVariable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day_7_InstanceAndStaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day_8_Switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_4_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day_4_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day_4_ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day_4_ArrayList.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day_8_Switch">
+  <component name="RunManager" selected="Application.Day_6_InstanceAndStaticVariable2">
     <configuration name="Day_5_InstanceAndStaticVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day_5_InstanceAndStaticVariable" />
       <module name="Batch15" />
@@ -99,9 +93,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day_6_InstanceAndStaticVariable2" />
         <item itemvalue="Application.Day_8_Switch" />
         <item itemvalue="Application.Day_7_InstanceAndStaticBlock" />
-        <item itemvalue="Application.Day_6_InstanceAndStaticVariable2" />
         <item itemvalue="Application.Day_5_InstanceAndStaticVariable" />
         <item itemvalue="Application.ffff" />
       </list>
