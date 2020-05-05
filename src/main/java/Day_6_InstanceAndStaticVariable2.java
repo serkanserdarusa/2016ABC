@@ -3,7 +3,7 @@ public class Day_6_InstanceAndStaticVariable2 {
     static String name="john";//static variable
            String name1="christy";//instance variable
 
-     public Day_6_InstanceAndStaticVariable2(){
+     public Day_6_InstanceAndStaticVariable2(){//constructor
      System.out.println("constructor");
      }
 
