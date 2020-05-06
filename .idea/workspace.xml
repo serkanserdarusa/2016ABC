@@ -2,11 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day_6_1Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day_6_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day_6_Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day_6_Overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_2Accessmodifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_AccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first/Day_7_protected_public.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_1_StringAndReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_2_Removeduplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_3_SingleAndMultipleArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_4_ArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_5_1_InstanceAndStaticVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_5_2_InstanceAndStaticVariable2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_5_3_InstanceAndStaticBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_5_4_Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_6_1Constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_6_Constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_6_Overloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_6_Overriding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Day_1_StringAndReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Day_2_Removeduplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Day_3_SingleAndMultipleArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Day_4_ArrayList.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +52,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/JavaExample" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -42,6 +60,9 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\java\JavaExample" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\gg" />
@@ -60,49 +81,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.data$info">
-    <configuration name="Day_6_1Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_6_1Constructor" />
+  <component name="RunManager" selected="Application.Day_7_Interface">
+    <configuration name="Day_7_Abstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_7_Abstraction" />
       <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_6_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_6_Constructor" />
+    <configuration name="Day_7_Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_7_Interface" />
       <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_6_Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_6_Overloading" />
+    <configuration name="Day_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_interface" />
       <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data$info" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data$info" />
+    <configuration name="polym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExample.polym" />
       <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data" />
+    <configuration name="trycatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExample.trycatch" />
       <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.data$info" />
-        <item itemvalue="Application.data" />
-        <item itemvalue="Application.Day_6_Overloading" />
-        <item itemvalue="Application.Day_6_1Constructor" />
-        <item itemvalue="Application.Day_6_Constructor" />
+        <item itemvalue="Application.Day_7_Interface" />
+        <item itemvalue="Application.Day_7_Abstraction" />
+        <item itemvalue="Application.polym" />
+        <item itemvalue="Application.trycatch" />
+        <item itemvalue="Application.Day_interface" />
       </list>
     </recent_temporary>
   </component>
