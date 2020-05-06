@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_2Accessmodifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_AccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/first/Day_7_protected_public.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_1_StringAndReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_2_Removeduplicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_3_SingleAndMultipleArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_4_ArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_5_1_InstanceAndStaticVariable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_5_2_InstanceAndStaticVariable2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_5_3_InstanceAndStaticBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_5_4_Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_6_1Constructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_6_Constructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_6_Overloading.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day_6_Overriding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day_1_StringAndReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day_2_Removeduplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day_3_SingleAndMultipleArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day_4_ArrayList.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
