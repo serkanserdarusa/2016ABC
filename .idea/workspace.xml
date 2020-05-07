@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_8_DataCollections_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_8_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_8_Set.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaExample/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_Interface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/data.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="set3">
+      <favorite_root url="file://$PROJECT_DIR$/src/main/java/JavaExample/Day_8_Set.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,9 +71,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day_7_Interface">
-    <configuration name="Day_7_Abstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_7_Abstraction" />
+  <component name="RunManager" selected="Application.Day_8_Set">
+    <configuration name="DATA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExample.DATA" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_interface" />
+    <configuration name="Day_8_DataCollections_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_8_DataCollections_ArrayList" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="polym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExample.polym" />
+    <configuration name="Day_8_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_8_List" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trycatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExample.trycatch" />
+    <configuration name="Day_8_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_8_Set" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day_8_Set" />
+        <item itemvalue="Application.Day_8_List" />
+        <item itemvalue="Application.Day_8_DataCollections_ArrayList" />
         <item itemvalue="Application.Day_7_Interface" />
-        <item itemvalue="Application.Day_7_Abstraction" />
-        <item itemvalue="Application.polym" />
-        <item itemvalue="Application.trycatch" />
-        <item itemvalue="Application.Day_interface" />
+        <item itemvalue="Application.DATA" />
       </list>
     </recent_temporary>
   </component>
