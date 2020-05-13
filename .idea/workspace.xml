@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_9_Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_9_Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExample/Day_9_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/DriverSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/BrowserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,24 +41,28 @@
     </option>
   </component>
   <component name="ProjectId" id="1bH6VVOgTElnlweiLff2XCtao0v" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/JavaExample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/test/java/AccessModifier" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main" />
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\gg" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\test\java\AccessModifier" />
       <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\java\JavaExample" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\gg" />
-      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -69,13 +77,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day_9_Lambda">
-    <configuration name="Day_7_Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_7_Polymorphism" />
+  <component name="RunManager" selected="TestNG.Locators.test">
+    <configuration name="DriverSetup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.DriverSetup" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExample.*" />
+          <option name="PATTERN" value="Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_9_Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_9_Lambda" />
+    <configuration name="SetUpDrivers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.SetUpDrivers" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExample.*" />
+          <option name="PATTERN" value="Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,52 +104,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_9_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_9_Map" />
+    <configuration name="Locators.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExample.*" />
+          <option name="PATTERN" value="Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Locators" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_9_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExample.Day_9_Queue" />
+    <configuration name="SetUpDrivers (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExample.*" />
+          <option name="PATTERN" value="Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.SetUpDrivers" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExample.ss" />
+    <configuration name="SetUpDrivers" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExample.*" />
+          <option name="PATTERN" value="Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.SetUpDrivers" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day_9_Lambda" />
-        <item itemvalue="Application.Day_9_Map" />
-        <item itemvalue="Application.Day_9_Queue" />
-        <item itemvalue="Application.Day_7_Polymorphism" />
-        <item itemvalue="Application.ss" />
+        <item itemvalue="TestNG.Locators.test" />
+        <item itemvalue="Application.DriverSetup" />
+        <item itemvalue="TestNG.SetUpDrivers" />
+        <item itemvalue="TestNG.SetUpDrivers (1)" />
+        <item itemvalue="Application.SetUpDrivers" />
       </list>
     </recent_temporary>
   </component>
@@ -170,5 +191,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
