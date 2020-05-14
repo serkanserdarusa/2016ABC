@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/DriverSetup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/BrowserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SQL/day1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
