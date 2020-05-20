@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/BasicAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/NavigateTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/getattribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/radioButton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Locators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/Locators.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,9 +76,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Locators.test">
-    <configuration name="DriverSetup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.DriverSetup" />
+  <component name="RunManager" selected="TestNG.Checkbox.checkbox1">
+    <configuration name="NavigateTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.NavigateTo" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -83,20 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetUpDrivers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.SetUpDrivers" />
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Locators.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Checkbox.checkbox" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +99,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.Locators" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Checkbox" />
+      <option name="METHOD_NAME" value="checkbox" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -114,7 +108,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetUpDrivers (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Checkbox.checkbox1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -123,15 +117,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.SetUpDrivers" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Checkbox" />
+      <option name="METHOD_NAME" value="checkbox1" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetUpDrivers" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="radioButton.radioButton" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +135,27 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.SetUpDrivers" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.radioButton" />
+      <option name="METHOD_NAME" value="radioButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="radioButton.radioButton1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.radioButton" />
+      <option name="METHOD_NAME" value="radioButton1" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -150,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Locators.test" />
-        <item itemvalue="Application.DriverSetup" />
-        <item itemvalue="TestNG.SetUpDrivers" />
-        <item itemvalue="TestNG.SetUpDrivers (1)" />
-        <item itemvalue="Application.SetUpDrivers" />
+        <item itemvalue="TestNG.Checkbox.checkbox1" />
+        <item itemvalue="TestNG.radioButton.radioButton1" />
+        <item itemvalue="TestNG.radioButton.radioButton" />
+        <item itemvalue="TestNG.Checkbox.checkbox" />
+        <item itemvalue="Application.NavigateTo" />
       </list>
     </recent_temporary>
   </component>
