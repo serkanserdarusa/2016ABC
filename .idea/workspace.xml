@@ -2,14 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/BasicAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/NavigateTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/getattribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/radioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExamples/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExamples/CountJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExamples/CountLetters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Locators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/Locators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_1_StringAndReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_1_StringAndReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_2_Removeduplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_2_Removeduplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_3_SingleAndMultipleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_3_SingleAndMultipleArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_4_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_4_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_5_1_InstanceAndStaticVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_5_1_InstanceAndStaticVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_5_2_InstanceAndStaticVariable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_5_2_InstanceAndStaticVariable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_5_3_InstanceAndStaticBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_5_3_InstanceAndStaticBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_5_4_Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_5_4_Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_6_1Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_6_1Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_6_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_6_Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_6_Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_6_Overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_6_Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_6_Overriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_2Accessmodifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_2Accessmodifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_Abstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_AccessModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_AccessModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_8_DataCollections_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_8_DataCollections_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_8_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_8_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_8_Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_8_Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_9_Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_9_Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_9_Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_9_Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_9_Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_9_Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/first/Day_7_protected_public.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first/Day_7_protected_public.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_1_StringAndReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_2_Removeduplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_3_SingleAndMultipleArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_4_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_5_1_InstanceAndStaticVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_5_2_InstanceAndStaticVariable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_5_3_InstanceAndStaticBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_5_4_Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_6_1Constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_6_Constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_6_Overloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_2Accessmodifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_Abstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_AccessModifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_Polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_8_DataCollections_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_8_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_8_Set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_9_Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_9_Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_9_Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/data$Day_6_Overriding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/data$info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/mother.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/first/Day_7_protected_public.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/first/Day_7_protected_public.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,13 +131,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Checkbox.checkbox1">
-    <configuration name="NavigateTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.NavigateTo" />
+  <component name="RunManager" selected="Application.SumDigits">
+    <configuration name="Finra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExamples.Finra" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenium.*" />
+          <option name="PATTERN" value="JavaExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,85 +145,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Checkbox.checkbox" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExamples.Palindrome" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenium.*" />
+          <option name="PATTERN" value="JavaExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.Checkbox" />
-      <option name="METHOD_NAME" value="checkbox" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Checkbox.checkbox1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PasswordValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExamples.PasswordValid" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenium.*" />
+          <option name="PATTERN" value="JavaExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.Checkbox" />
-      <option name="METHOD_NAME" value="checkbox1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="radioButton.radioButton" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PasswordValid2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExamples.PasswordValid2" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenium.*" />
+          <option name="PATTERN" value="JavaExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.radioButton" />
-      <option name="METHOD_NAME" value="radioButton" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="radioButton.radioButton1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SumDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExamples.SumDigits" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenium.*" />
+          <option name="PATTERN" value="JavaExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.radioButton" />
-      <option name="METHOD_NAME" value="radioButton1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Checkbox.checkbox1" />
-        <item itemvalue="TestNG.radioButton.radioButton1" />
-        <item itemvalue="TestNG.radioButton.radioButton" />
-        <item itemvalue="TestNG.Checkbox.checkbox" />
-        <item itemvalue="Application.NavigateTo" />
+        <item itemvalue="Application.SumDigits" />
+        <item itemvalue="Application.PasswordValid2" />
+        <item itemvalue="Application.PasswordValid" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Finra" />
       </list>
     </recent_temporary>
   </component>

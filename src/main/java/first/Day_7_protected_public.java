@@ -1,7 +1,7 @@
 package first;
 
 
-import JavaExample.Day_7_AccessModifier;
+import Java.Day_7_AccessModifier;
 
 public class Day_7_protected_public extends Day_7_AccessModifier {
     public static void main(String[] args) {
