@@ -2,69 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExamples/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExamples/CountJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExamples/CountLetters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_1_StringAndReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_1_StringAndReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_2_Removeduplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_2_Removeduplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_3_SingleAndMultipleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_3_SingleAndMultipleArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_4_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_4_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_5_1_InstanceAndStaticVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_5_1_InstanceAndStaticVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_5_2_InstanceAndStaticVariable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_5_2_InstanceAndStaticVariable2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_5_3_InstanceAndStaticBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_5_3_InstanceAndStaticBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_5_4_Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_5_4_Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_6_1Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_6_1Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_6_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_6_Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_6_Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_6_Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_6_Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_6_Overriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_2Accessmodifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_2Accessmodifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_Abstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_AccessModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_AccessModifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_7_Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_Polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_8_DataCollections_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_8_DataCollections_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_8_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_8_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_8_Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_8_Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_9_Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_9_Lambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_9_Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_9_Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaExample/Day_9_Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_9_Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/first/Day_7_protected_public.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first/Day_7_protected_public.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_1_StringAndReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_2_Removeduplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_3_SingleAndMultipleArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_4_ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_5_1_InstanceAndStaticVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_5_2_InstanceAndStaticVariable2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_5_3_InstanceAndStaticBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_5_4_Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_6_1Constructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_6_Constructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_6_Overloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_2Accessmodifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_Abstraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_AccessModifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_7_Polymorphism.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_8_DataCollections_ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_8_List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_8_Set.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_9_Lambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_9_Map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Day_9_Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/Tiger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/data$Day_6_Overriding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/data$info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/friend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/mother.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaExample/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/first/Day_7_protected_public.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/first/Day_7_protected_public.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
