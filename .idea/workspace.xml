@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExamples/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaExamples/Mutability.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,9 +71,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumDigits">
-    <configuration name="Finra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExamples.Finra" />
+  <component name="RunManager" selected="Application.Mutability">
+    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExamples.Armstrong" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExamples.Palindrome" />
+    <configuration name="Mutability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExamples.Mutability" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mutability" />
+        <item itemvalue="Application.Armstrong" />
         <item itemvalue="Application.SumDigits" />
         <item itemvalue="Application.PasswordValid2" />
         <item itemvalue="Application.PasswordValid" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Finra" />
       </list>
     </recent_temporary>
   </component>
