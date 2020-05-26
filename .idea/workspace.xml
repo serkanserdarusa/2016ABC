@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/radioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/radioButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utils/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utils/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Checkbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/Checkbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utils/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utils/Driver.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +49,16 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main" />
-      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\gg" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\test\java\AccessModifier" />
       <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\java\JavaExample" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main" />
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\gg" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -69,13 +73,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mutability">
-    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExamples.Armstrong" />
+  <component name="RunManager" selected="TestNG.Checkbox.checkbox">
+    <configuration name="Day_5_3_InstanceAndStaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Day_5_3_InstanceAndStaticBlock" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExamples.*" />
+          <option name="PATTERN" value="Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,52 +100,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExamples.PasswordValid" />
+    <configuration name="Checkbox.checkbox" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExamples.*" />
+          <option name="PATTERN" value="Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Checkbox" />
+      <option name="METHOD_NAME" value="checkbox" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordValid2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExamples.PasswordValid2" />
+    <configuration name="radioButton.radioButton" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExamples.*" />
+          <option name="PATTERN" value="Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.radioButton" />
+      <option name="METHOD_NAME" value="radioButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExamples.SumDigits" />
+    <configuration name="radioButton.radioButton1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExamples.*" />
+          <option name="PATTERN" value="Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.radioButton" />
+      <option name="METHOD_NAME" value="radioButton1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Checkbox.checkbox" />
+        <item itemvalue="TestNG.radioButton.radioButton1" />
+        <item itemvalue="TestNG.radioButton.radioButton" />
+        <item itemvalue="Application.Day_5_3_InstanceAndStaticBlock" />
         <item itemvalue="Application.Mutability" />
-        <item itemvalue="Application.Armstrong" />
-        <item itemvalue="Application.SumDigits" />
-        <item itemvalue="Application.PasswordValid2" />
-        <item itemvalue="Application.PasswordValid" />
       </list>
     </recent_temporary>
   </component>

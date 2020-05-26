@@ -33,9 +33,9 @@ public class radioButton {
         List<WebElement> element=driver.findElements(By.xpath("//body//div[4]/input"));//table[@class='main']//form[1]//input
 
         for(WebElement each:element){
-            BrowserUtils.wait(2);
+           BrowserUtils.wait(2);
             each.click();
-            BrowserUtils.wait(2);
+           BrowserUtils.wait(2);
         }
 
 
