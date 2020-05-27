@@ -57,6 +57,7 @@ public class Checkbox {
             System.out.println(each1.isEnabled());
             System.out.println(each1.isDisplayed());
             BrowserUtils.wait(2);
+
         }
     }
     /*

@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/dynamictable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/dynamictable2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/radioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/radioButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Utils/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utils/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Checkbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/Checkbox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Checkbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/Checkbox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Utils/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utils/Driver.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,34 +74,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Checkbox.checkbox">
-    <configuration name="Day_5_3_InstanceAndStaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Day_5_3_InstanceAndStaticBlock" />
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mutability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExamples.Mutability" />
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaExamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Checkbox.checkbox" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.dynamictable2.getAllInfo2">
+    <configuration name="dynamictable2.getAllInfo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +84,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.Checkbox" />
-      <option name="METHOD_NAME" value="checkbox" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.dynamictable2" />
+      <option name="METHOD_NAME" value="getAllInfo" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -118,7 +93,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="radioButton.radioButton" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="dynamictable2.getAllInfo2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +102,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.radioButton" />
-      <option name="METHOD_NAME" value="radioButton" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.dynamictable2" />
+      <option name="METHOD_NAME" value="getAllInfo2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -136,7 +111,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="radioButton.radioButton1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="dynamictable2.getColumn1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +120,44 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.radioButton" />
-      <option name="METHOD_NAME" value="radioButton1" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.dynamictable2" />
+      <option name="METHOD_NAME" value="getColumn1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamictable2.getcolumn2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.dynamictable2" />
+      <option name="METHOD_NAME" value="getcolumn2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamictable2.getrow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.dynamictable2" />
+      <option name="METHOD_NAME" value="getrow" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -156,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Checkbox.checkbox" />
-        <item itemvalue="TestNG.radioButton.radioButton1" />
-        <item itemvalue="TestNG.radioButton.radioButton" />
-        <item itemvalue="Application.Day_5_3_InstanceAndStaticBlock" />
-        <item itemvalue="Application.Mutability" />
+        <item itemvalue="TestNG.dynamictable2.getAllInfo2" />
+        <item itemvalue="TestNG.dynamictable2.getAllInfo" />
+        <item itemvalue="TestNG.dynamictable2.getrow" />
+        <item itemvalue="TestNG.dynamictable2.getcolumn2" />
+        <item itemvalue="TestNG.dynamictable2.getColumn1" />
       </list>
     </recent_temporary>
   </component>
