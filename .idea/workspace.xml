@@ -2,12 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/dynamictable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/dynamictable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Checkbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/Checkbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Checkbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/Checkbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/login/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/CheckBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/FormyCheckBoxTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/FormyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/FourCommonMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/SubmitForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/resource/configuration/GetPropertyMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/superhero/homepage/ApplyingIterationMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/superhero/homepage/NavigationLinks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/superhero/loginpage/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/youtube/TestingYoutube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/gmail/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/gmail/SendEmails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/Solution.java.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day11/WaitsPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/ActionsClassHoverPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/DragAndDropPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/FramesPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/JSExecutorPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/WaitsPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day14/ConfigReaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day14/WebTablesPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day3/BrowserFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day3/DifferenceBetweenQuitClose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day3/NavigationPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day4/EnterTextPractice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day4/FindElementsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day5/AnnotationsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day5/MultipleButtonsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day5/TestNGPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day9/TimeToReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vytrack/CalendarEventsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vytrack/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vytrack/VyTrackTestCases.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +83,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -48,6 +103,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -203,5 +259,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/MySeleniumLibrary" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
 </project>
