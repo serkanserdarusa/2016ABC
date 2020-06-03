@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class KeyUpAndKeyDown {
+public class Actions_Keyboard_KeyUpAndKeyDown {
 
     private WebDriver driver;
     @BeforeMethod

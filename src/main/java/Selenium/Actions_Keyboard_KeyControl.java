@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class KeyControl {
+public class Actions_Keyboard_KeyControl {
     private WebDriver driver;
     @BeforeMethod
     public void setup(){

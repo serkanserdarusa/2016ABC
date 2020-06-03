@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public  class Actionssss {
+public  class Actions_Mouse_MoveToElement {
     /*
     Actions class used with mouse and keyboard events
     Mouse events:

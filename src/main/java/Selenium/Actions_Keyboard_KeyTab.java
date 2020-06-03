@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class KeyTab {
+public class Actions_Keyboard_KeyTab {
 
     private WebDriver driver;
     @BeforeMethod

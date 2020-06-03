@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 import java.awt.*;
 import java.util.concurrent.TimeUnit;
 
-public class pop_ups {
+public class Alert_Pop_ups {
     /*
     Alert is interface
     Simple Alert:A simple alert just has an ok button.we will use accept().

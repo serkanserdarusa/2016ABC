@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class DoubleClickAndRightClick {
+public class Actions_Mouse_DoubleClickAndRightClick {
 
     private WebDriver driver;
 

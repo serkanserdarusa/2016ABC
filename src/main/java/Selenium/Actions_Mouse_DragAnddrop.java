@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class dragAnddrop {
+public class Actions_Mouse_DragAnddrop {
 
     private WebDriver driver;
 
