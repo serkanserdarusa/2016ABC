@@ -26,7 +26,7 @@ public class KeyControl {
     }
 
     @Test
-    public void KeyTab1(){
+    public void KeyControl1(){
 
         Actions act=new Actions(driver);
         BrowserUtils.wait(3);
@@ -38,7 +38,7 @@ public class KeyControl {
         BrowserUtils.wait(3);
     }
     @Test
-    public void KeyTab2(){
+    public void KeyControl2(){
     List<WebElement> element=driver.findElements(By.xpath("//ol[@id='selectable']/li"));
     for(WebElement each:element){
         Actions act=new Actions(driver);
@@ -48,7 +48,7 @@ public class KeyControl {
 
     }
     @Test
-    public void KeyTab3(){
+    public void KeyControl3(){
 
 
         String before="//ol[@id='selectable']/li[";
@@ -65,7 +65,7 @@ public class KeyControl {
 
 
     @Test
-    public void KeyTab4(){
+    public void KeyControl4(){
 
        List<WebElement> el=driver.findElements(By.xpath("//ol[@id='selectable']/li"));
         String before="//ol[@id='selectable']/li[";
@@ -81,7 +81,7 @@ public class KeyControl {
     }
 
     @Test
-    public void KeyTab5() {
+    public void KeyControl5() {
 
         List<WebElement> el = driver.findElements(By.xpath("//ol[@id='selectable']/li"));
         String before = "//ol[@id='selectable']/li[";
