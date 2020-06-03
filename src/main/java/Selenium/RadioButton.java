@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class radioButton {
+public class RadioButton {
 
     private WebDriver driver;
 

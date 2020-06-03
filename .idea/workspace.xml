@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/FileUploading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/WindowsSwitching.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/dropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/Dropdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/dynamictable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/DynamicTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/dynamictable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/DynamicTable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/getattribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/GetAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/radioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/RadioButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/dropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/dropdown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/dynamictable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/dynamictable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/dynamictable2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/dynamictable2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/getattribute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/getattribute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/radioButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/radioButton.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
@@ -106,16 +118,16 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main" />
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\gg" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\test\java\AccessModifier" />
       <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\java\JavaExample" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main" />
-      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\gg" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -130,8 +142,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.dynamictable2.getAllInfo2">
-    <configuration name="dynamictable2.getAllInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.FileUploading.test2">
+    <configuration name="FileUploading.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +152,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.dynamictable2" />
-      <option name="METHOD_NAME" value="getAllInfo" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.FileUploading" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -149,7 +161,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dynamictable2.getAllInfo2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FileUploading.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -158,8 +170,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.dynamictable2" />
-      <option name="METHOD_NAME" value="getAllInfo2" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.FileUploading" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -167,7 +179,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dynamictable2.getColumn1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ScrollUpAndDown.test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -176,8 +188,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.dynamictable2" />
-      <option name="METHOD_NAME" value="getColumn1" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.ScrollUpAndDown" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -185,7 +197,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dynamictable2.getcolumn2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="scrooll.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -194,8 +206,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.dynamictable2" />
-      <option name="METHOD_NAME" value="getcolumn2" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.scrooll" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -203,7 +215,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dynamictable2.getrow" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="scrooll.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -212,8 +224,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.dynamictable2" />
-      <option name="METHOD_NAME" value="getrow" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.scrooll" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -223,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.dynamictable2.getAllInfo2" />
-        <item itemvalue="TestNG.dynamictable2.getAllInfo" />
-        <item itemvalue="TestNG.dynamictable2.getrow" />
-        <item itemvalue="TestNG.dynamictable2.getcolumn2" />
-        <item itemvalue="TestNG.dynamictable2.getColumn1" />
+        <item itemvalue="TestNG.FileUploading.test2" />
+        <item itemvalue="TestNG.FileUploading.test1" />
+        <item itemvalue="TestNG.ScrollUpAndDown.test3" />
+        <item itemvalue="TestNG.scrooll.test1" />
+        <item itemvalue="TestNG.scrooll.test2" />
       </list>
     </recent_temporary>
   </component>

@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class dropdown {
+public class Dropdown {
 private WebDriver driver;
     @BeforeMethod
     public void setup(){
