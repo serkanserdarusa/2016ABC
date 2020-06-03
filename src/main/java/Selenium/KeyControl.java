@@ -45,11 +45,9 @@ public class KeyControl {
         act.keyDown(each,Keys.CONTROL).build().perform();
         BrowserUtils.wait(3);
     }
-
     }
     @Test
     public void KeyControl3(){
-
 
         String before="//ol[@id='selectable']/li[";
         String after="]";
@@ -89,7 +87,7 @@ public class KeyControl {
         for (int i = 1; i <=el.size(); i++) {
                 String xpath = before + i + after;
                 WebElement element = driver.findElement(By.xpath(xpath));
-            if (el.get(i).getText().equals("2") || el.get(i).getText().equals("2")) {
+            if (el.get(i).getText().equals("3") || el.get(i).getText().equals("6")) {
                 Actions act = new Actions(driver);
                 act.keyDown(element, Keys.CONTROL).build().perform();
             }

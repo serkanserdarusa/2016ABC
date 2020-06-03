@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Actionssss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/DoubleClickAndRightClick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/KeyControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/KeyTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/KeyUpAndKeyDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/dragAnddrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/pop_ups.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/RadioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/RadioButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/FileUploading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Frames.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/WindowsSwitching.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/radioButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/radioButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/KeyControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/KeyControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
@@ -143,8 +131,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.KeyControl.KeyTab5">
-    <configuration name="KeyControl.KeyTab1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.KeyControl.KeyControl5">
+    <configuration name="KeyControl.KeyControl5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -154,7 +142,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
       <option name="MAIN_CLASS_NAME" value="Selenium.KeyControl" />
-      <option name="METHOD_NAME" value="KeyTab1" />
+      <option name="METHOD_NAME" value="KeyControl5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -236,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.KeyControl.KeyControl5" />
         <item itemvalue="TestNG.KeyControl.KeyTab5" />
         <item itemvalue="TestNG.KeyControl.KeyTab4" />
         <item itemvalue="TestNG.KeyControl.KeyTab3" />
         <item itemvalue="TestNG.KeyControl.KeyTab2" />
-        <item itemvalue="TestNG.KeyControl.KeyTab1" />
       </list>
     </recent_temporary>
   </component>
