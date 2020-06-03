@@ -2,6 +2,7 @@ package Selenium;
 
 import Utils.BrowserUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -62,9 +63,7 @@ public class RadioButton {
             System.out.println(each.isEnabled());
             System.out.println(each.isDisplayed());
         }
-
-
-
+        
     }
 
     @AfterMethod

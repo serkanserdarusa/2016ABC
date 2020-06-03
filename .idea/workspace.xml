@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/FileUploading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Frames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/WindowsSwitching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Actionssss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/DoubleClickAndRightClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/KeyControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/KeyTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/KeyUpAndKeyDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/dragAnddrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/pop_ups.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/dropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/Dropdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/dynamictable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/DynamicTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/dynamictable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/DynamicTable2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/getattribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/GetAttribute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/radioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/RadioButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/dropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/dropdown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/dynamictable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/dynamictable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/dynamictable2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/dynamictable2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/getattribute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/getattribute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/RadioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/RadioButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/FileUploading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Frames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/WindowsSwitching.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Selenium/radioButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/radioButton.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
@@ -54,6 +54,7 @@
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase8.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/Solution.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/Solution.java.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/mylib/actionclass/Amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/mylib/actionclass/Amazon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day11/WaitsPractice.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/ActionsClassHoverPractice.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/DragAndDropPractice.java" beforeDir="false" />
@@ -142,8 +143,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FileUploading.test2">
-    <configuration name="FileUploading.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.KeyControl.KeyTab5">
+    <configuration name="KeyControl.KeyTab1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +153,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.FileUploading" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.KeyControl" />
+      <option name="METHOD_NAME" value="KeyTab1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -161,7 +162,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileUploading.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KeyControl.KeyTab2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -170,8 +171,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.FileUploading" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.KeyControl" />
+      <option name="METHOD_NAME" value="KeyTab2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -179,7 +180,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScrollUpAndDown.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KeyControl.KeyTab3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -188,8 +189,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.ScrollUpAndDown" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.KeyControl" />
+      <option name="METHOD_NAME" value="KeyTab3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -197,7 +198,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scrooll.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KeyControl.KeyTab4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -206,8 +207,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.scrooll" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.KeyControl" />
+      <option name="METHOD_NAME" value="KeyTab4" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -215,7 +216,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scrooll.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KeyControl.KeyTab5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -224,8 +225,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.scrooll" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.KeyControl" />
+      <option name="METHOD_NAME" value="KeyTab5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -235,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FileUploading.test2" />
-        <item itemvalue="TestNG.FileUploading.test1" />
-        <item itemvalue="TestNG.ScrollUpAndDown.test3" />
-        <item itemvalue="TestNG.scrooll.test1" />
-        <item itemvalue="TestNG.scrooll.test2" />
+        <item itemvalue="TestNG.KeyControl.KeyTab5" />
+        <item itemvalue="TestNG.KeyControl.KeyTab4" />
+        <item itemvalue="TestNG.KeyControl.KeyTab3" />
+        <item itemvalue="TestNG.KeyControl.KeyTab2" />
+        <item itemvalue="TestNG.KeyControl.KeyTab1" />
       </list>
     </recent_temporary>
   </component>
