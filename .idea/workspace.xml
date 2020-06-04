@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Actionssss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DoubleClickAndRightClick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/KeyControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/KeyTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/KeyUpAndKeyDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/dragAnddrop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/pop_ups.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
@@ -129,8 +138,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.KeyControl.KeyControl5">
-    <configuration name="KeyControl.KeyControl5" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.JDBC">
+    <configuration name="JDBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC" />
+      <module name="Batch15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Actions_Keyboard_KeyControl.KeyControl5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -139,7 +155,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.KeyControl" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Actions_Keyboard_KeyControl" />
       <option name="METHOD_NAME" value="KeyControl5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -148,7 +164,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyControl.KeyTab2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Actions_Keyboard_KeyControl.KeyTab3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -157,25 +173,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.KeyControl" />
-      <option name="METHOD_NAME" value="KeyTab2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KeyControl.KeyTab3" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.KeyControl" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Actions_Keyboard_KeyControl" />
       <option name="METHOD_NAME" value="KeyTab3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -184,7 +182,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyControl.KeyTab4" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Actions_Keyboard_KeyControl.KeyTab4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -193,7 +191,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.KeyControl" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Actions_Keyboard_KeyControl" />
       <option name="METHOD_NAME" value="KeyTab4" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -202,7 +200,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyControl.KeyTab5" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Actions_Keyboard_KeyControl.KeyTab5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -211,7 +209,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.KeyControl" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Actions_Keyboard_KeyControl" />
       <option name="METHOD_NAME" value="KeyTab5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -222,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.KeyControl.KeyControl5" />
-        <item itemvalue="TestNG.KeyControl.KeyTab5" />
-        <item itemvalue="TestNG.KeyControl.KeyTab4" />
-        <item itemvalue="TestNG.KeyControl.KeyTab3" />
-        <item itemvalue="TestNG.KeyControl.KeyTab2" />
+        <item itemvalue="Application.JDBC" />
+        <item itemvalue="TestNG.Actions_Keyboard_KeyControl.KeyControl5" />
+        <item itemvalue="TestNG.Actions_Keyboard_KeyControl.KeyTab5" />
+        <item itemvalue="TestNG.Actions_Keyboard_KeyControl.KeyTab4" />
+        <item itemvalue="TestNG.Actions_Keyboard_KeyControl.KeyTab3" />
       </list>
     </recent_temporary>
   </component>
