@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/FileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/HandleFrames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/NestedFrames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/ScrollDownAndScrollUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/SwitchWindow1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/SwitchWindow2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/HandleFrames2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/SwitchWindow3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Actions_Mouse_MoveToElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/Actions_Mouse_MoveToElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JDBC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Actions_Mouse_MoveToElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/Actions_Mouse_MoveToElement.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
@@ -146,8 +136,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.NestedFrames.frame2">
-    <configuration name="HandleFrames.frame1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.HandleFrames2.test3">
+    <configuration name="HandleFrames2.test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +146,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.HandleFrames" />
-      <option name="METHOD_NAME" value="frame1" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.HandleFrames2" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -200,7 +190,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchWindow1.switchWindows" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SwitchWindow3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -209,16 +199,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.SwitchWindow1" />
-      <option name="METHOD_NAME" value="switchWindows" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.SwitchWindow3" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchWindow2.switchWindows" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SwitchWindow3.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -227,8 +216,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.SwitchWindow2" />
-      <option name="METHOD_NAME" value="switchWindows" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.SwitchWindow3" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -238,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HandleFrames2.test3" />
+        <item itemvalue="TestNG.SwitchWindow3" />
+        <item itemvalue="TestNG.SwitchWindow3.test" />
         <item itemvalue="TestNG.NestedFrames.frame2" />
         <item itemvalue="TestNG.NestedFrames" />
-        <item itemvalue="TestNG.HandleFrames.frame1" />
-        <item itemvalue="TestNG.SwitchWindow2.switchWindows" />
-        <item itemvalue="TestNG.SwitchWindow1.switchWindows" />
       </list>
     </recent_temporary>
   </component>
