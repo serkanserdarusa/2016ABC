@@ -1,12 +1,14 @@
 package JDBC;
 
+import java.sql.*;
+
 public class Practice_3 {
     public static void main(String[] args) throws SQLException {
         String username="hr";
         String password="hr";
         String url="jdbc:oracle:thin:@3.87.141.2:1521:xe";
 
-        Connection connection=DriverManager.getConnection(url,username,password);
+        Connection connection= DriverManager.getConnection(url,username,password);
 
         Statement statement=connection.createStatement();
 

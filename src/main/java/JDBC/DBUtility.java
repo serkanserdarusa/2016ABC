@@ -1,5 +1,7 @@
 package JDBC;
 
+import java.sql.*;
+
 public class DBUtility {
     private final static String username = ConfigurationReader.getProperty("JDBC_UserName"),
             password = ConfigurationReader.getProperty("JDBC_PassWord"),

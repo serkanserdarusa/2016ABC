@@ -1,18 +1,22 @@
 package JDBC;
 
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
+
 public class Practice_4 {
     public static void main(String[] args) throws SQLException {
         String username="hr";
         String password="hr";
         String url="jdbc:oracle:thin:@3.87.141.2:1521:xe";
 
-        Connection connection=DriverManager.getConnection(url,username,password);
+        Connection connection= DriverManager.getConnection(url,username,password);
 
         Statement statement=connection.createStatement();
 
         ResultSet result=statement.executeQuery("select*from employees");
 
-        List<String>info=new ArrayList<>();
+        List<String> info=new ArrayList<>();
 
         while(result.next()) {
 
