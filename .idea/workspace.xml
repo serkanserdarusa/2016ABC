@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/HandleFrames2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/SwitchWindow3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Practice_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Practice_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Practice_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Practice_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
@@ -136,7 +138,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HandleFrames2.test3">
+  <component name="RunManager" selected="Application.JDBC">
+    <configuration name="JDBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SQL.JDBC" />
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SQL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HandleFrames2.test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
@@ -149,23 +164,6 @@
       <option name="MAIN_CLASS_NAME" value="Selenium.HandleFrames2" />
       <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NestedFrames" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.NestedFrames" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -227,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JDBC" />
         <item itemvalue="TestNG.HandleFrames2.test3" />
         <item itemvalue="TestNG.SwitchWindow3" />
         <item itemvalue="TestNG.SwitchWindow3.test" />
         <item itemvalue="TestNG.NestedFrames.frame2" />
-        <item itemvalue="TestNG.NestedFrames" />
       </list>
     </recent_temporary>
   </component>
