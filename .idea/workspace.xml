@@ -2,41 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Batch15/test-output/Screenshot/webtable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excel4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/ExcelUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/excel5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/excel6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Screenshoot1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Screenshoot2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Screenshoot3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/ExcellUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/afterallsrc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/beforeallsrc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/emailsrc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/loginsrc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/passwordsrc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/webtable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/wholepage.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Actions_Keyboard_KeyControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P17_Actions_Keyboard_KeyControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Actions_Keyboard_KeyTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P16_Actions_Keyboard_KeyTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Actions_Keyboard_KeyUpAndKeyDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P18_Actions_Keyboard_KeyUpAndKeyDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Actions_Mouse_DoubleClickAndRightClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P15_Actions_Mouse_DoubleClickAndRightClick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Actions_Mouse_DragAnddrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P14_Actions_Mouse_DragAnddrop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Actions_Mouse_MoveToElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P13_Actions_Mouse_MoveToElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Alert_Pop_ups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P12_Alert_Pop_ups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/BasicAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P3_BasicAssertion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Checkbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P7_Checkbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/DriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P1_DriverSetup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Dropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P8_Dropdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/DynamicTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P10_DynamicTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/DynamicTable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P11_DynamicTable2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/FileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P19_FileUpload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/GetAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P5_GetAttribute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/HandleFrames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P24_HandleFrames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/HandleFrames2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P25_HandleFrames2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P2_Locators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/NavigateTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P4_NavigateTo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/NestedFrames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P26_NestedFrames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/RadioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P6_RadioButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/ScrollDownAndScrollUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P20_ScrollDownAndScrollUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/SwitchWindow1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P21_SwitchWindow1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/SwitchWindow2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P22_SwitchWindow2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/SwitchWindow3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P23_SwitchWindow3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Utils/ExcelUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SQL/JDBC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Utils/ExcelUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Excel4.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
@@ -168,9 +153,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Excel4">
-    <configuration name="Excel4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.Excel4" />
+  <component name="RunManager" selected="Application.Excell6">
+    <configuration name="Excell2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.Excell2" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -182,7 +167,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="screenshoot1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Excell3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.Excell3" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -190,16 +176,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.screenshoot1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="screenshoot1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Excell4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.Excell4" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -207,16 +189,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.screenshoot1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="screenshoot2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Excell5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.Excell5" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -224,16 +202,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.screenshoot2" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="screenshoot2.takescreenshot" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Excell6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.Excell6" />
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -241,40 +215,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.screenshoot2" />
-      <option name="METHOD_NAME" value="takescreenshot" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="screenshoot3.takescreenshot" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.screenshoot3" />
-      <option name="METHOD_NAME" value="takescreenshot" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Excel4" />
-        <item itemvalue="TestNG.screenshoot3.takescreenshot" />
-        <item itemvalue="TestNG.screenshoot2" />
-        <item itemvalue="TestNG.screenshoot2.takescreenshot" />
+        <item itemvalue="Application.Excell6" />
+        <item itemvalue="Application.Excell5" />
+        <item itemvalue="Application.Excell4" />
+        <item itemvalue="Application.Excell3" />
+        <item itemvalue="Application.Excell2" />
       </list>
     </recent_temporary>
   </component>
