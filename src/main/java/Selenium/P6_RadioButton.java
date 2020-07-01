@@ -29,7 +29,7 @@ public class P6_RadioButton {
     }
 
     @Test
-    public void radioButton(){
+    public void test1(){
 
         List<WebElement> element=driver.findElements(By.xpath("//body//div[4]/input"));//table[@class='main']//form[1]//input
 
@@ -43,7 +43,7 @@ public class P6_RadioButton {
 
     }
     @Test
-    public void radioButton1(){
+    public void test2(){
 
         List<WebElement> element=driver.findElements(By.xpath("//table[@class='main']//form[1]//input"));
 

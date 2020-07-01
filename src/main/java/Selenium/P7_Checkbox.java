@@ -28,7 +28,7 @@ public class P7_Checkbox {
     }
 
     @Test
-    public void checkbox(){
+    public void test1(){
         List<WebElement> elements=driver.findElements(By.xpath("/html/body/table[3]/tbody/tr[1]/td[2]/table/tbody/tr/td/div[4]/input"));
         for(WebElement each:elements){
             BrowserUtils.wait(2);
@@ -38,7 +38,7 @@ public class P7_Checkbox {
     }
 
     @Test
-    public void checkbox1(){
+    public void test2(){
         List<WebElement> elements=driver.findElements(By.xpath("/html/body/table[3]/tbody/tr[1]/td[2]/table/tbody/tr/td/div[6]/input"));
         for(WebElement each:elements) {
             if (each.isSelected()) {

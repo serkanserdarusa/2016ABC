@@ -22,6 +22,7 @@ public class P2_Locators {
              driver.manage().window().maximize();
              driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
              driver.get("http://amazon.com");
+
          }
 
          @Test

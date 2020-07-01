@@ -15,6 +15,7 @@ public class P5_GetAttribute {
         WebElement element1=driver.findElement(By.name("field-keywords"));
         System.out.println(element1.getAttribute("name"));
         driver.close();
+        
     }
 
 }

@@ -2,26 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Excell6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Screenshoot1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Screenshoot2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Screenshoot3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/ExcellUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/afterallsrc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/beforeallsrc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/emailsrc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/loginsrc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/passwordsrc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/webtable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshoot/wholepage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Factory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Excel4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/P2_Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P2_Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/P5_GetAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P5_GetAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/P6_RadioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P6_RadioButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/P7_Checkbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P7_Checkbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Excell1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Excell2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Excell3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Excell4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Excell5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Excell6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P2_Locators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/P2_Locators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P5_GetAttribute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/P5_GetAttribute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P6_RadioButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/P6_RadioButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P7_Checkbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/P7_Checkbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Screenshoot1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Screenshoot2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Screenshoot3.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
@@ -153,35 +153,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Excell6">
-    <configuration name="Excell2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.Excell2" />
+  <component name="RunManager" selected="TestNG.factoryannotations">
+    <configuration name="C:/Users/serka/eclipse-workspace/Batch15/listeners.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/listeners.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Excell3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.Excell3" />
+    <configuration name="C:/Users/serka/eclipse-workspace/Batch15/runclass.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/runclass.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Excell4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.Excell4" />
+    <configuration name="factoryannotations" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -189,12 +182,16 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.factoryannotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Excell5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.Excell5" />
+    <configuration name="invocation.veryfyHeadingIsDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -202,12 +199,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.invocation" />
+      <option name="METHOD_NAME" value="veryfyHeadingIsDisplayed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Excell6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.Excell6" />
+    <configuration name="priority" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -215,17 +217,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.priority" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Excell6" />
-        <item itemvalue="Application.Excell5" />
-        <item itemvalue="Application.Excell4" />
-        <item itemvalue="Application.Excell3" />
-        <item itemvalue="Application.Excell2" />
+        <item itemvalue="TestNG.factoryannotations" />
+        <item itemvalue="TestNG.C:/Users/serka/eclipse-workspace/Batch15/runclass.xml" />
+        <item itemvalue="TestNG.priority" />
+        <item itemvalue="TestNG.C:/Users/serka/eclipse-workspace/Batch15/listeners.xml" />
+        <item itemvalue="TestNG.invocation.veryfyHeadingIsDisplayed" />
       </list>
     </recent_temporary>
   </component>
