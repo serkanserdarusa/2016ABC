@@ -1,0 +1,9 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="My test">
+    <test name="tests regression">
+        <packages>
+            <package name="Selenium.test"></package>
+        </packages>
+    </test>
+</suite>

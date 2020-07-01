@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="My test">
+    <test name="tests regression">
+        <classes>
+            <class name="Selenium.P7_Checkbox"/>
+            <class name="Selenium.P6_RadioButton">
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="My test">
+    <test name="tests regression">
+        <classes>
+            <class name="Selenium.P6_RadioButton">
+                <methods>
+                  <!--> <include name="test1"/>-->
+                    <exclude name="test1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

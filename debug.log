@@ -489,3 +489,9 @@
 [0609/205614.980:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8de6953c0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
 [0609/205614.982:ERROR:file_io_win.cc(161)] CreateFile C:\Users\serka\AppData\Local\Temp\scoped_dir24080_2131882561\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
 [0609/205614.982:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0701/135825.125:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0701/135825.127:ERROR:exception_snapshot_win.cc(98)] thread ID 28076 not found in process
+[0701/135826.622:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0701/135826.622:ERROR:exception_snapshot_win.cc(98)] thread ID 24260 not found in process
+[0701/135827.859:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0701/135827.859:ERROR:exception_snapshot_win.cc(98)] thread ID 33564 not found in process

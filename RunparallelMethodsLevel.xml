@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="My test" parallel="methods" thread-count="3">
+    <test name="tests regression">
+        <classes>
+            <class name="Selenium.test.Ex1_forXml"/>
+            <class name="Selenium.test.Ex2_forXml">
+            </class>
+        </classes>
+    </test>
+</suite>
+
+<!-- testNg will run all our test methods in seperate thread-->
