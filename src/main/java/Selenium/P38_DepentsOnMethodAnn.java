@@ -2,7 +2,7 @@ package Selenium;
 
 import org.testng.annotations.Test;
 
-public class DepentsOnMethodAnn {
+public class P38_DepentsOnMethodAnn {
 
 
     @Test(groups = "hi")

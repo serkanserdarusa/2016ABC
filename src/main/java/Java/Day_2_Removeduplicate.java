@@ -21,7 +21,6 @@ public class Day_2_Removeduplicate {
         System.out.println(remdup2);
 
         //third way
-
         String word1 = "AAABBBCCCCCCDDDDDDEEEEHHHHGGKKKLL";
         String result = "";
         for (int i = 0; i < word1.length(); i++) {

@@ -3,7 +3,7 @@ package Selenium;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class DependsOnMethod2 {
+public class P39_DependsOnMethod2 {
 
     @Test(priority = 1)
     public void firstTest() {

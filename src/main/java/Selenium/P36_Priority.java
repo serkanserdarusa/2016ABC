@@ -2,7 +2,7 @@ package Selenium;
 
 import org.testng.annotations.Test;
 
-public class Priority {
+public class P36_Priority {
 
     //it determines which test will be run first
     @Test

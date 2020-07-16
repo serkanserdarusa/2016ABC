@@ -3,7 +3,7 @@ package Selenium;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class DataProviderEx {
+public class P40_DataProviderEx {
     //it help us to write data driven test which same method will be run multiple times with different set of data
 
 

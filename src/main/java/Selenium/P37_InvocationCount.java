@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
-public class InvocationCount {
+public class P37_InvocationCount {
 
     //invocation mean method will run 6 times
     @Test(invocationCount = 6,timeOut = 100000)

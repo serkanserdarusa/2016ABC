@@ -1,7 +1,7 @@
 package Java;
 /*
     it is a process of hiding implementation
-    Abstarct class allows us to create functionality and implement or override from subclasses
+    Abstract class allows us to create functionality and implement or override from subclasses
     abstract class can contain regular method or abstract  method without body
     if regular class extends  an abstract class,then abstract method meant to be overridden.(not regular method)
     Access modifier should be same or more visible(in sub class)
@@ -9,7 +9,6 @@ package Java;
     class-class==>extends
     interface-interface==>extends
     class-interface==>implement
-    class-class==>extends-inteface==>implement
     abstract class cannot be private,final and static
      */
 class father extends  Day_7_Abstraction{//father sub class Day_7_Abstraction super class

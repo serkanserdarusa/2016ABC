@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class DataProvideEx2 {
+public class P41_DataProvideEx2 {
     WebDriver driver;
 
     @BeforeMethod

@@ -2,24 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RunByGroups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunClasses.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunMethod.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunPackage.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunparallelClassLevel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunparallelMethodsLevel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Runparalleltestlevel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/DataProvideEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/DataProviderEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/DepentsOnMethodAnn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/InvocationCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/test/Ex1_forXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/test/Ex2_forXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/testbla.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/factoryannotations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java/Day_2_Removeduplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_2_Removeduplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java/Day_7_Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_Abstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/DataProvideEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P41_DataProvideEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/DataProviderEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P40_DataProviderEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/DependsOnMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P39_DependsOnMethod2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/DepentsOnMethodAnn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P38_DepentsOnMethodAnn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/InvocationCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P37_InvocationCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P36_Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java/Day_2_Removeduplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/Day_2_Removeduplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java/Day_7_Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/Day_7_Abstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java/father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java/mother.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/mother.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DataProviderEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/DataProviderEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/testbla.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
@@ -151,10 +148,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.testbla.thirdTest">
-    <configuration name="C:/Users/serka/eclipse-workspace/Batch15/RunparallelMethodsLevel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/serka/eclipse-workspace/Batch15/RunClasses.xml">
+    <configuration name="Day_7_AccessModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Day_7_AccessModifier" />
       <module name="Batch15" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/RunparallelMethodsLevel.xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_9_Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Day_9_Lambda" />
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.dd" />
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/serka/eclipse-workspace/Batch15/RunClasses.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch15" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/RunClasses.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -162,7 +198,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DepentsOnMethodAnn.test4" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="P39_DependsOnMethod2.thirdTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -171,60 +207,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.DepentsOnMethodAnn" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testbla" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.testbla" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testbla.secondTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.testbla" />
-      <option name="METHOD_NAME" value="secondTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testbla.thirdTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.testbla" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.P39_DependsOnMethod2" />
       <option name="METHOD_NAME" value="thirdTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -235,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.testbla.thirdTest" />
-        <item itemvalue="TestNG.testbla" />
-        <item itemvalue="TestNG.testbla.secondTest" />
-        <item itemvalue="TestNG.DepentsOnMethodAnn.test4" />
-        <item itemvalue="TestNG.C:/Users/serka/eclipse-workspace/Batch15/RunparallelMethodsLevel.xml" />
+        <item itemvalue="TestNG.C:/Users/serka/eclipse-workspace/Batch15/RunClasses.xml" />
+        <item itemvalue="Application.Day_7_AccessModifier" />
+        <item itemvalue="Application.dd" />
+        <item itemvalue="Application.Day_9_Lambda" />
+        <item itemvalue="TestNG.P39_DependsOnMethod2.thirdTest" />
       </list>
     </recent_temporary>
   </component>
