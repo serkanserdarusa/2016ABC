@@ -13,7 +13,7 @@ package Java;
      */
 class father extends  Day_7_Abstraction{//father sub class Day_7_Abstraction super class
     public  void salary(){
-        System.out.println("my salary is $5000");
+        System.out.println("my salary is $4000");
     }
 
 }
@@ -35,6 +35,7 @@ public  abstract class Day_7_Abstraction {//super class
 //    }
     protected abstract void salary();
     public void child(){
+
         System.out.println("I am a child");
     }
 

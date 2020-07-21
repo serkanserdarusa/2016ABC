@@ -114,7 +114,7 @@
 
     <profiles>
         <profile>
-            <id>CucumberRunner</id>
+            <id>Cucumber</id>
             <build>
                 <plugins>
                     <plugin>

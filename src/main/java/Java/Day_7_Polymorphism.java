@@ -24,6 +24,7 @@ package Java;
         }
 
         public void Talk() {
+
             System.out.println("mother is talking");
         }
     }
@@ -31,10 +32,12 @@ package Java;
     class child extends student{
 
         public void Swim() {
+
             System.out.println("father is swimming");
         }
 
         public void Talk() {
+
             System.out.println("father is talking");
         }
     }

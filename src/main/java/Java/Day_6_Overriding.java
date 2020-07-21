@@ -22,7 +22,7 @@ class data {
     }
     /*
     same method,same return type,same parameter
-    final-private-static olmaz
+    Cant be final-private-static
     Access modifier in subclass  meant to be  same or more visible than sup class
     private==>default==>protected==>public
 

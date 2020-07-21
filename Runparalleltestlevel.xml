@@ -2,8 +2,8 @@
 <suite name="My test" parallel="tests" thread-count="20">
     <test name="tests regression">
         <classes>
-            <class name="Selenium.P10_DynamicTable"/>
-            <class name="Selenium.P11_DynamicTable2">
+            <class name="Selenium.P9_DynamicTable"/>
+            <class name="Selenium.P10_DynamicTable2">
             </class>
         </classes>
     </test>

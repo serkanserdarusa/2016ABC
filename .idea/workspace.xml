@@ -2,21 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listener.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MicrosoftWebDriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parametersforcrossbrowsing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/CrossbrowsertestingwithtestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Factory_Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Factory_Annotations2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Hard_SoftAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/ListenerTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/ListenerTestNGDemo2SuitLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/ListenerTestNGDemoClassLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Parametrization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/getCssValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java/Day_2_Removeduplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_2_Removeduplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java/Day_6_Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_6_Overriding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Java/Day_7_Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_Abstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/DataProvideEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P41_DataProvideEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/DataProviderEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P40_DataProviderEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/DependsOnMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P39_DependsOnMethod2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/DepentsOnMethodAnn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P38_DepentsOnMethodAnn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/InvocationCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P37_InvocationCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P36_Priority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/Day_2_Removeduplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/Day_2_Removeduplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java/Day_7_Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/P39_DependsOnMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P39_DependsOnMethod2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Java/Day_7_Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/Day_7_Abstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java/Day_7_Polymorphism.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/Day_7_Polymorphism.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java/child.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/child.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Java/father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/father.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/mother.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/mother.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DataProviderEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/DataProviderEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/testbla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java/friend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/friend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DataProvideEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DataProviderEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DependsOnMethod2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DepentsOnMethodAnn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/InvocationCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Priority.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
@@ -83,6 +101,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="set3">
       <favorite_root url="file://$PROJECT_DIR$/src/main/java/JavaExample/Day_8_Set.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
@@ -91,6 +112,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -120,12 +142,6 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\serka\eclipse-workspace\Batch15" />
-      <recent name="C:\Users\serka\eclipse-workspace\Batch15\target" />
-      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main" />
-      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\gg" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -134,6 +150,15 @@
       <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\java\Selenium" />
       <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\test\java\AccessModifier" />
       <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\java\JavaExample" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Selenium" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15" />
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15\target" />
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main" />
+      <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\gg" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -148,57 +173,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/serka/eclipse-workspace/Batch15/RunClasses.xml">
-    <configuration name="Day_7_AccessModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Day_7_AccessModifier" />
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day_9_Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Day_9_Lambda" />
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.dd" />
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/serka/eclipse-workspace/Batch15/RunClasses.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Batch15" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/RunClasses.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P39_DependsOnMethod2.thirdTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Factory_Annotations2.runtest">
+    <configuration name="Factory_Annotations2.runtest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
@@ -207,9 +183,129 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.P39_DependsOnMethod2" />
-      <option name="METHOD_NAME" value="thirdTest" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Factory_Annotations2" />
+      <option name="METHOD_NAME" value="runtest" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factory_Annotations.runtest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Factory_Annotations" />
+      <option name="METHOD_NAME" value="runtest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hard_SoftAssertion.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Hard_SoftAssertion" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hard_SoftAssertion.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.Listener.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Hard_SoftAssertion" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P36_Priority.listener" type="TestNG">
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.Listener.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.P36_Priority" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium.test" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listener" type="TestNG">
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Selenium.test" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.test.Ex1_forXml" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -218,11 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/serka/eclipse-workspace/Batch15/RunClasses.xml" />
-        <item itemvalue="Application.Day_7_AccessModifier" />
-        <item itemvalue="Application.dd" />
-        <item itemvalue="Application.Day_9_Lambda" />
-        <item itemvalue="TestNG.P39_DependsOnMethod2.thirdTest" />
+        <item itemvalue="TestNG.Factory_Annotations2.runtest" />
+        <item itemvalue="TestNG.Factory_Annotations.runtest" />
+        <item itemvalue="TestNG.Hard_SoftAssertion.test1" />
+        <item itemvalue="TestNG.Hard_SoftAssertion.test2" />
+        <item itemvalue="TestNG.Selenium.test" />
       </list>
     </recent_temporary>
   </component>
@@ -258,5 +354,10 @@
       <path value="$PROJECT_DIR$/MySeleniumLibrary" />
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Batch15$Selenium_test.ic" NAME="Selenium.test Coverage Results" MODIFIED="1595301877449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Selenium.test.*</FILTER>
+    </SUITE>
   </component>
 </project>
