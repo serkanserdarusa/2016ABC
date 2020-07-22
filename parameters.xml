@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="My test">
+    <test name="My file">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="url" value="https://www.facebook.com"/>
+        <parameter name="email" value="batch15@gmail.com"/>
+        <parameter name="password" value="123456"/>
+        <classes>
+            <class name="Selenium.P45_Parameters"/>
+        </classes>
+    </test>
+</suite>

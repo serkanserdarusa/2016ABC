@@ -2,39 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Listener.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicrosoftWebDriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossBrowserTestWithBrowser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListenerTestNGDemo2SuitLevel.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/parameters.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parametersforcrossbrowsing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/CrossbrowsertestingwithtestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Factory_Annotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Factory_Annotations2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Hard_SoftAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/ListenerTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/ListenerTestNGDemo2SuitLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/ListenerTestNGDemoClassLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Parametrization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/getCssValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P41_Hard_SoftAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P42_getCssValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P43_Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P44_factory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P45_Parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P46_CrossBrowserTestWithBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P47_Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P48_ListenerTestNgDemoClassLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P49_ListenerTestNGDemo2SuitLevel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java/Day_6_Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_6_Overriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java/Day_7_Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_Abstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java/Day_7_Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Day_7_Polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/P39_DependsOnMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P39_DependsOnMethod2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/Day_7_Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/Day_7_Abstraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/Day_7_Polymorphism.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/Day_7_Polymorphism.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/child.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/father.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/friend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/friend.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DataProvideEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DataProviderEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DependsOnMethod2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DepentsOnMethodAnn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/InvocationCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Priority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RunparallelClassLevel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RunparallelClassLevel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/test/Ex1_forXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/test/Ex1_forXml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/CrossbrowsertestingwithtestNG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Factory_Annotations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Factory_Annotations2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Hard_SoftAssertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/ListenerTestNG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/ListenerTestNGDemo2SuitLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/ListenerTestNGDemoClassLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P10_DynamicTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P11_DynamicTable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P12_Alert_Pop_ups.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P13_Actions_Mouse_MoveToElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P14_Actions_Mouse_DragAnddrop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P15_Actions_Mouse_DoubleClickAndRightClick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P16_Actions_Keyboard_KeyTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P17_Actions_Keyboard_KeyControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P18_Actions_Keyboard_KeyUpAndKeyDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P19_FileUpload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P20_ScrollDownAndScrollUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P21_SwitchWindow1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P22_SwitchWindow2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P23_SwitchWindow3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P24_HandleFrames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P25_HandleFrames2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P26_NestedFrames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P27_Screenshoot1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P28_Screenshoot2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P29_Screenshoot3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P30_Excell1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P31_Excell2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P32_Excell3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P33_Excell4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P34_Excell5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P35_Excell6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P36_Priority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P37_InvocationCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P38_DepentsOnMethodAnn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P39_DependsOnMethod2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P40_DataProviderEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P41_DataProvideEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Parametrization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/getCssValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/test/Ex1_forXml.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/test/Ex1_forXml.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
@@ -173,73 +198,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Factory_Annotations2.runtest">
-    <configuration name="Factory_Annotations2.runtest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/serka/eclipse-workspace/Batch15/CrossBrowserTestWithBrowser.xml">
+    <configuration name="C:/Users/serka/eclipse-workspace/Batch15/CrossBrowserTestWithBrowser.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.Factory_Annotations2" />
-      <option name="METHOD_NAME" value="runtest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CrossBrowserTestWithBrowser.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factory_Annotations.runtest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/serka/eclipse-workspace/Batch15/ListenerTestNGDemo2SuitLevel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.Factory_Annotations" />
-      <option name="METHOD_NAME" value="runtest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ListenerTestNGDemo2SuitLevel.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hard_SoftAssertion.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/serka/eclipse-workspace/Batch15/parameters.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.Hard_SoftAssertion" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hard_SoftAssertion.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Batch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.Listener.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.Hard_SoftAssertion" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/parameters.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -256,7 +239,7 @@
       </extension>
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.P36_Priority" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.P35_Priority" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
@@ -271,16 +254,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="P46_CrossBrowserTestWithBrowser.parametersTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenium.test.*" />
+          <option name="PATTERN" value="Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Selenium.test" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.P46_CrossBrowserTestWithBrowser" />
+      <option name="METHOD_NAME" value="parametersTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P48_ListenerTestNgDemoClassLevel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.P48_ListenerTestNgDemoClassLevel" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -314,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Factory_Annotations2.runtest" />
-        <item itemvalue="TestNG.Factory_Annotations.runtest" />
-        <item itemvalue="TestNG.Hard_SoftAssertion.test1" />
-        <item itemvalue="TestNG.Hard_SoftAssertion.test2" />
-        <item itemvalue="TestNG.Selenium.test" />
+        <item itemvalue="TestNG.C:/Users/serka/eclipse-workspace/Batch15/CrossBrowserTestWithBrowser.xml" />
+        <item itemvalue="TestNG.C:/Users/serka/eclipse-workspace/Batch15/ListenerTestNGDemo2SuitLevel.xml" />
+        <item itemvalue="TestNG.P48_ListenerTestNgDemoClassLevel" />
+        <item itemvalue="TestNG.P46_CrossBrowserTestWithBrowser.parametersTest" />
+        <item itemvalue="TestNG.C:/Users/serka/eclipse-workspace/Batch15/parameters.xml" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,34 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Personal files">
+
+    <test name="MEdge browser">
+        <parameter name="browser" value="msedge"/>
+        <parameter name="url" value="https://www.facebook.com/"/>
+        <parameter name="email" value="serkanserdarusa@gmail.com"/>
+        <parameter name="password" value="123456"/>
+        <classes>
+            <class name="Selenium.P46_CrossBrowserTestWithBrowser"/>
+        </classes>
+    </test>
+
+    <test name="Firefox browser">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="url" value="https://www.facebook.com/"/>
+        <parameter name="email" value="serkanserdarusa@gmail.com"/>
+        <parameter name="password" value="123456"/>
+        <classes>
+            <class name="Selenium.P46_CrossBrowserTestWithBrowser"/>
+        </classes>
+    </test>
+
+    <test name="Chrome browser">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="url" value="https://www.facebook.com/"/>
+        <parameter name="email" value="serkanserdarusa@gmail.com"/>
+        <parameter name="password" value="123456"/>
+        <classes>
+            <class name="Selenium.P46_CrossBrowserTestWithBrowser"/>
+        </classes>
+    </test>
+</suite>
+

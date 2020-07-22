@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="My test">
+    <listeners>
+        <listener class-name="Selenium.P47_Listener"></listener>
+    </listeners>
+    <test name="tests regression">
+        <classes>
+            <class name="Selenium.P49_ListenerTestNGDemo2SuitLevel"/>
+        </classes>
+    </test>
+</suite>
