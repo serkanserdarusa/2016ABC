@@ -3,7 +3,7 @@ package Selenium;
 import Utils.BrowserUtils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//serkan github
 public class P4_NavigateTo {
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver","C:/Users/serka/eclipse-workspace/Batch15/chromedriver.exe");
