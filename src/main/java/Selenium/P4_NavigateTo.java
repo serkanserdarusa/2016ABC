@@ -3,7 +3,7 @@ package Selenium;
 import Utils.BrowserUtils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//serkan github
 public class P4_NavigateTo {
     //serkan local
     public static void main(String[] args) {
