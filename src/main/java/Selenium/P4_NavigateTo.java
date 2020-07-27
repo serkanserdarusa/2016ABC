@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class P4_NavigateTo {
-//serkan in serkan branch
+
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver","C:/Users/serka/eclipse-workspace/Batch15/chromedriver.exe");
         WebDriver driver=new ChromeDriver();
