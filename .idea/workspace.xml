@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CrossBrowserTestWithBrowser.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListenerTestNGDemo2SuitLevel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parameters.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P41_Hard_SoftAssertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P42_getCssValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P43_Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P44_factory2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P45_Parameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P46_CrossBrowserTestWithBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P47_Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P48_ListenerTestNgDemoClassLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/P49_ListenerTestNGDemo2SuitLevel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RunparallelClassLevel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RunparallelClassLevel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/test/Ex1_forXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/test/Ex1_forXml.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/CrossbrowsertestingwithtestNG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Factory_Annotations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Factory_Annotations2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Hard_SoftAssertion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/ListenerTestNG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/ListenerTestNGDemo2SuitLevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/ListenerTestNGDemoClassLevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P10_DynamicTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P11_DynamicTable2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P12_Alert_Pop_ups.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P13_Actions_Mouse_MoveToElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P14_Actions_Mouse_DragAnddrop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P15_Actions_Mouse_DoubleClickAndRightClick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P16_Actions_Keyboard_KeyTab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P17_Actions_Keyboard_KeyControl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P18_Actions_Keyboard_KeyUpAndKeyDown.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P19_FileUpload.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P20_ScrollDownAndScrollUp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P21_SwitchWindow1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P22_SwitchWindow2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P23_SwitchWindow3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P24_HandleFrames.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P25_HandleFrames2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P26_NestedFrames.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P27_Screenshoot1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P28_Screenshoot2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P29_Screenshoot3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P30_Excell1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P31_Excell2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P32_Excell3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P33_Excell4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P34_Excell5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P35_Excell6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P36_Priority.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P37_InvocationCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P38_DepentsOnMethodAnn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P39_DependsOnMethod2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P40_DataProviderEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P41_DataProvideEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/Parametrization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/getCssValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/test/Ex1_forXml.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/test/Ex1_forXml.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
